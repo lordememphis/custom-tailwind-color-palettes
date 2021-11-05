@@ -6,4 +6,4 @@ You already know, you can customise your [TailwindCSS](https://tailwindcss.com) 
 2. [Carbon Design](CARBON_DESIGN.md) (IBM)
 
 - Just append the color object to your tailwind configuration file and then build once done.
-- Happy customnisation :)
+- Happy customisation :)
