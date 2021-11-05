@@ -1,7 +1,5 @@
-module.exports = {
-  theme: {
-    extend: {},
-    colors: {
+```javascript
+colors: {
       red: {
         "50": "#FFEBEE",
         "100": "#FFCDD2",
@@ -162,7 +160,6 @@ module.exports = {
         a400: "#00E676",
         a700: "#00C853"
       },
-
       "light-green": {
         "50": "#F1F8E9",
         "100": "#DCEDC8",
@@ -179,7 +176,6 @@ module.exports = {
         a700: "#64DD17",
         a400: "#76FF03"
       },
-
       lime: {
         "50": "#F9FBE7",
         "100": "#F0F4C3",
@@ -196,7 +192,6 @@ module.exports = {
         a400: "#C6FF00",
         a700: "#AEEA00"
       },
-
       yellow: {
         "50": "#FFFDE7",
         "100": "#FFF9C4",
@@ -213,7 +208,6 @@ module.exports = {
         a400: "#FFEA00",
         a700: "#FFD600"
       },
-
       amber: {
         "50": "#FFF8E1",
         "100": "#FFECB3",
@@ -230,7 +224,6 @@ module.exports = {
         a400: "#FFC400",
         a700: "#FFAB00"
       },
-
       orange: {
         "50": "#FFF3E0",
         "100": "#FFE0B2",
@@ -247,7 +240,6 @@ module.exports = {
         a400: "#FF9100",
         a700: "#FF6D00"
       },
-
       "deep-orange": {
         "50": "#FBE9E7",
         "100": "#FFCCBC",
@@ -264,7 +256,6 @@ module.exports = {
         a400: "#FF3D00",
         a700: "#DD2C00"
       },
-
       brown: {
         "50": "#EFEBE9",
         "100": "#D7CCC8",
@@ -277,7 +268,6 @@ module.exports = {
         "800": "#4E342E",
         "900": "#3E2723"
       },
-
       gray: {
         "50": "#FAFAFA",
         "100": "#F5F5F5",
@@ -290,7 +280,6 @@ module.exports = {
         "800": "#424242",
         "900": "#212121"
       },
-
       "blue-gray": {
         "50": "#ECEFF1",
         "100": "#CFD8DC",
@@ -303,11 +292,8 @@ module.exports = {
         "800": "#37474F",
         "900": "#263238"
       },
-
       black: "#000000",
       white: "#FFFFFF"
+      transparent: "transparent"
     },
-    variants: {},
-    plugins: []
-  }
-};
+```
