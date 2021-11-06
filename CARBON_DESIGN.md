@@ -120,6 +120,12 @@ colors: {
         90: '#272525',
         100: '#171414',
       },
+      alert: {
+        30: '#f1c21b',
+        40: '#ff832b',
+        50: '#24a148',
+        60: '#da1e28',
+      },
       black: '#000000',
       white: '#ffffff',
       transparent: 'transparent',
